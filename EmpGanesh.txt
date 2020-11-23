@@ -1,0 +1,16 @@
+empId,EmpName,Email,PhNo,Salary
+1,Adapa Ganesh,adapa.ganesh@ojas-it.com,6302616366,10000
+2,Adapa Ganesh,adap.ganesh@ojas-it.com,6302616366,10000
+#gdhgFgt
+#sdf
+#sfd
+#sf
+1,Sandeep,sandeep@ojas-it.com,630678999,40000
+3,Prakash,prakash@ojas-it.com,630261456,70000
+#sdf
+#sfd
+#sf
+4,Narasimha Reddy,narasimhaReddy@ojas-it.com,6302616556,90000
+4,Sonia,sonia@ojas-it.com,6366616366,90000
+6,Rama Devi,ramadevi@ojas-it.com,9366616366,890000
+
