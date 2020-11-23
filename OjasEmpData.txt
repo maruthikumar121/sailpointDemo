@@ -1,0 +1,4 @@
+Employee ID,First Name,Last Name,Full Name,Email,Gender	Department,Mobile Number,Location,Company,Blood Group,Date Of Birth
+dp18197,DivyaSri,Paruchuri,DivyaSriP,divyasri.paruchuri@ojas-it.com,Female,OILC,9059067979,Vijayawada,OJAS-IT,B+,12-09-1992
+gm20119,Maruthi,Gundigi,Maruthikumar Gundigi,g.maruthikumar@ojas-it.com,male,OILC,6301988847,Hindupuram,OJAS-IT,A+,16-04-1996
+
